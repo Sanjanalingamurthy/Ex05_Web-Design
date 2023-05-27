@@ -23,7 +23,7 @@
 <style type="text/css">
 body
 {
-bgcolor:pink;
+background-color:lavender;
 color:red;
 text-align:center;
 }
@@ -34,14 +34,14 @@ background-color:yellow;
 }
 hr
 {
-background-color:red;
+background-color:blue;
 height:5px;
 }
 p
 {
 text-align:justify;
 border-style:dashed;
-border-width:4px;
+border-width:5px;
 border-color:purple;
 }
 </style>
@@ -67,7 +67,8 @@ E-mail ID:xia2020sanjana@gmail.com
 </html>
 ~~~
 ## OUTPUT
-![san 1](https://github.com/Sanjanalingamurthy/Ex05_Web-Design/assets/127816526/e0d90398-8b96-46f6-95b4-badaf4ae80c5)
+
+![san biodata](https://github.com/Sanjanalingamurthy/Ex05_Web-Design/assets/127816526/03a6db25-b6fd-41ed-baa6-3b543352599a)
 
 
 ## RESULT
